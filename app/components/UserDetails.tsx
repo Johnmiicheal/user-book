@@ -1,5 +1,5 @@
 import { useParams, Link } from 'react-router-dom'
-import { useFetch } from '@/hooks/useFetch'
+import { useFetch } from '@/app/hooks/useFetch'
 
 interface User {
   id: number

@@ -1,8 +1,8 @@
 'use client'
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
-import HomePage from '@/components/HomePage'
-import UserDetails from '@/components/UserDetails'
+import HomePage from '@/app/components/HomePage'
+import UserDetails from '@/app/components/UserDetails'
 
 export default function App() {
   return (

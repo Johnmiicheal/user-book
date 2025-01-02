@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { useFetch } from '@/hooks/useFetch'
+import { useFetch } from '@/app/hooks/useFetch'
 import UserCard from './UserCard'
 import SearchForm from './SearchForm'
 
